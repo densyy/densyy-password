@@ -1,0 +1,13 @@
+{
+  "name": "densyy-password",
+  "version": "0.0.1",
+  "scripts": {},
+  "keywords": [],
+  "author": "densyy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/densyy/densyy-password"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
