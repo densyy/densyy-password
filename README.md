@@ -11,7 +11,7 @@ pnpm add densyy-password
 
 const helperPassword = require('densyy-password')
 
-/* ---- Exemplos ---- */
+/* ---- Examples ---- */
 
 const key = process.env.BCRYPT_KEY
 const senha = '123456798'
